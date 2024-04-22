@@ -11,7 +11,7 @@
 
 - 👨‍💻 One of my projects is available at [https://gaurav-portfolio-ccip.onrender.com/#about](https://gaurav-portfolio-ccip.onrender.com/#about)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **Java and Springboot**
 
 - 📫 How to reach me **gaurav.beniwal9233@gmail.com**
 
